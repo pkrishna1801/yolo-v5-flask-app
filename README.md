@@ -9,7 +9,7 @@ REST API for real-time object detection using YOLOv5.
 pip install -r requirements.txt
 
 # Clone YOLOv5
-git clone https://github.com/ultralytics/yolov5
+git clone https://github.com/pkrishna1801/yolo-v5-flask-app.git
 
 # Run the API
 python app.py
